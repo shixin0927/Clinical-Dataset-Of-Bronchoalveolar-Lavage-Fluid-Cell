@@ -1,0 +1,12 @@
+path: F:/code/ultralytics_seg/dataset/big_data
+train: train/images
+val: val/images
+
+names:
+  0: CEC
+  1: RBC
+  2: SEC
+#  3: EC
+#  3: LC
+#  5: MC
+#  6: NEC

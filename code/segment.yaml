@@ -1,0 +1,12 @@
+names:
+  0: CEC
+  1: RBC
+  2: SEC
+  3: EC
+  4: NC
+  5: LC
+  6: MC
+nc: 7
+path: F:/ultralytics_seg/dataset/PW_BALFC
+train: train/images
+val: val/images

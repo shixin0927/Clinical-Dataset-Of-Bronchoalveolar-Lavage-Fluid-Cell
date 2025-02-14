@@ -1,0 +1,12 @@
+path: F:/code/ultralytics_seg/dataset/Data102
+train: train/images
+val: val/images
+
+names:
+  0: CEC
+  1: RBC
+  2: SEC
+  3: TEC
+  4: TNEC
+  5: TLC
+  6: TMC
