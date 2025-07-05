@@ -1,7 +1,11 @@
 # Clinical-Dataset-Of-Bronchoalveolar-Lavage-Fluid-Cell 
-This dataset comprises BALF cell images stained by Diff-quick staining and Gram staining, from patients who underwent bronchoalveolar lavage and endotracheal aspirates between 2018 and 2024 at the Chinese PLA General Hospital. The dataset contained 2105 images, with 13,263 annotated cells from seven typical cell classes, including erythrocyte, ciliated columnar epithelial, squamous epithelial, macrophage, lymphocyte, neutrophil, and eosinophil cells using both contour fine labeling and bounding box labeling. In addition, the classical YoloV8 deep learning instance segmentation model was used to detect and segment the seven types of BALF cells. As observed, our model demonstrated exceptionally high accuracy. There are four types of the dataset: High Resolution Images, Images, Visualization Images, and Labels, which are helpful to promote the study of automated cell identification in BALF.
+This dataset comprises BALF cell images stained by Diff-quick staining and Gram staining, from patients who underwent bronchoalveolar lavage and endotracheal aspirates between 2018 and 2024 at the Chinese PLA General Hospital. The dataset contained 2105 images, with 13,263 annotated cells from seven typical cell classes, including erythrocyte, ciliated columnar epithelial, squamous epithelial, macrophage, lymphocyte, neutrophil, and eosinophil cells using both contour fine labeling and bounding box labeling.All cells that could be confidently identified by senior clinical cytologists were annotated. A small number of cells, for which consensus could not be reached among the cytologists, were left unannotated due to uncertainty. In addition, the classical YoloV8 deep learning instance segmentation model was used to detect and segment the seven types of BALF cells. As observed, our model demonstrated exceptionally high accuracy. There are four types of the dataset: High Resolution Images, Images, Visualization Images, and Labels, which are helpful to promote the study of automated cell identification in BALF.
 ## Dataset
 https://doi.org/10.5281/zenodo.14871206
+        
+        
+        
+        
         
         
         
